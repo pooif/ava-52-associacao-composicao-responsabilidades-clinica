@@ -1,0 +1,48 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#30A241",
+    "titleBar.activeForeground": "#ffffff"
+  },
+  "editor.wordWrap": "on",
+  "redhat.telemetry.enabled": false,
+  "breadcrumbs.enabled": true,
+  "editor.inlayHints.fontSize": 12,
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "java.inlayHints.parameterNames.enabled": "literals",
+  "editor.rulers": [
+    100
+  ],
+  "editor.renderWhitespace": "boundary",
+	"editor.bracketPairColorization.enabled": true,
+  "java.project.sourcePaths": [
+    "test",
+    "src"
+  ],
+  "files.watcherExclude": {
+    "node_modules/*": true,
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/bower_components/**": true,
+    "**/vendor/**": true,
+    "**/platforms/**": true,
+    "**/plugins/**": true,
+    "**/dist/**": true,
+    "**/target/**": true,
+    "**/.cache/**": true
+  },
+  "files.exclude": {
+    "**/node_modules/**": true,
+    "**/target/**": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  }
+}

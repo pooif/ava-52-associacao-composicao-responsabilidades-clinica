@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "EditorConfig.EditorConfig",
+    "ms-vscode.atom-keybindings",
+    "wayou.vscode-todo-highlight",
+    "vscode-icons-team.vscode-icons"
+  ]
+}
