@@ -1,6 +1,6 @@
 # 5.2 // Associação, Composição e Responsabilidade // Clínica
 
-Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <>
+Use este link do GitHub Classroom para ter sua cópia alterável deste repositório: <https://classroom.github.com/a/f6XqYt1u>
 
 Implementar respeitando os fundamentos de Orientação a Objetos.
 
